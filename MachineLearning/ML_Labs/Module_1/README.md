@@ -86,7 +86,7 @@ In this lab, we will be using **Adult Census Income Dataset** which is available
    
 ## Task 4: Select Required Columns
 
-1. In the search bar which is located on the left navigation pane, search for **Select Columns**, and drag and drop **Select Columns in Dataset** on the canvas.
+1.  Select **Component tab** and in the search bar which is located on the left navigation pane, search for **Select Columns**, and drag and drop **Select Columns in Dataset** on the canvas.
 
    ![Select Columns](https://raw.githubusercontent.com/SD-14/EduLabs/main/MachineLearning/Images/014.png)
    
@@ -170,7 +170,7 @@ After training the above model, we would like to know the accuracy of our model,
    
 ## Task 7: Visualize the Model.
 
-1. Once the the run is successfully executed, click on **Evaluate Model**, select **Outputs+Logs** from the right-pane, and click on the **Histogram** icon.
+1. Once the the run is successfully executed, double click on **Evaluate Model**, select **Outputs+Logs** from the right-pane, and click on the **Histogram** icon.
 
    ![Output+Logs](https://raw.githubusercontent.com/SD-14/EduLabs/main/MachineLearning/Images/032.png)
    
